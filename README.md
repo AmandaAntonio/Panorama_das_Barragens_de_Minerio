@@ -5,7 +5,7 @@
 # Panorama das Barragens de Minério no Brasil
 <div>
 Nesta análise você terá um panorama geral sobre as barragens de minério no Brasil e obterá insigths que irão expandir seus conhecimentos sobre o tema.
-Como o assunto não é abordado de maneira recorrente em canais de comunicação a conscientização socio-ambiental envolvendo o a mineração são desconhecidos pela população geral.
+Como o assunto não é abordado de maneira recorrente em canais de comunicação a conscientização socio-ambiental envolvendo a mineração são desconhecidos pela população geral.
 
 E quando não sabemos nada a respeito de assuntos que podem gerar impactos nas nossas vidas, ficamos mais susceptível as desordens que eles podem nos levar. Como ocorreu em Brumadinho no ano de 2019 que foi uns maiores acidentes socio-ambientais do nosso país.
 Para nos mantermos mais atentos a possíveis cenários com o de Brumadinho devemos estar sempre em contato com textos, análises e pessoas que possam expandir nos conhecimentos sobre os assuntos/coisas que nos cercam.
