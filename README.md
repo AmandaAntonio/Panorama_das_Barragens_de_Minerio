@@ -1,9 +1,7 @@
 [![author](https://img.shields.io/badge/author-Amanda-red.svg)](https://www.linkedin.com/in/amandamagalhaesantonio/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) ![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-<div align= 'center'>
-
 # Panorama das Barragens de Minério no Brasil
-<div>
+
 Nesta análise você terá um panorama geral sobre as barragens de minério no Brasil e obterá insigths que irão expandir seus conhecimentos sobre o tema.
 Como o assunto não é abordado de maneira recorrente em canais de comunicação a conscientização socio-ambiental envolvendo a mineração são desconhecidos pela população geral.
 
